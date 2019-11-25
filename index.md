@@ -100,8 +100,11 @@ of a functional with geophysical applications.
 *Presenter*: Haotian Li
 ### Relevant Papers:
 
-[Benamou_2000](https://link.springer.com/article/10.1007/s002110050002) A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem
+[Benamou_2000](https://link.springer.com/article/10.1007/s002110050002): A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem.
 
 ## [September 6th](https://link.springer.com/article/10.1007%2Fs41884-018-0012-6): Logarithmic divergences from optimal transport and Rényi geometry
 *Presenter*: David Weber
 ### Relevant Papers:
+
+
+
